@@ -18,6 +18,8 @@ tags:
   - Industrial
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/novglobal
   - type: Website
     url: https://www.nov.com/
   - type: Contact
