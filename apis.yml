@@ -19,6 +19,8 @@ tags:
   - Fortune 500
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/national-oilwell-varco-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/novglobal
   - type: Website
