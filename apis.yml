@@ -6,7 +6,18 @@ description: >-
   manufactures rigs, drilling tools, downhole equipment, and provides digital
   solutions for drilling operations worldwide.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/national-oilwell-varco.png
 url: https://raw.githubusercontent.com/api-evangelist/national-oilwell-varco/refs/heads/main/apis.yml
 created: '2024-12-03'
 modified: '2026-04-28'
